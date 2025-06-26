@@ -13,6 +13,7 @@
     "@example/minimal": "github:withastro/github-pages",
     "@tailwindcss/vite": "^4.1.10",
     "astro": "^5.10.1",
-    "tailwindcss": "^4.1.10"
-  }
+    "tailwindcss": "^4.1.10",
+  "@astrojs/github-pages": "^1.0.0"
 }
+  }
